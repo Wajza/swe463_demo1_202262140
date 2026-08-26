@@ -4,7 +4,7 @@
 // void main() {
 //   runApp(
 //     const MaterialApp(
-//       home: Text('My name is YOUR NAME'),
+//       home: Text('My name is Wajd Alghamdi'),
 //     ),
 //   );
 // }
