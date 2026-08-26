@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
         body: const Center(
-          child: Text('MyApp is running!', style: TextStyle(fontSize: 24)),
+          child: Text('Hot reload is working!', style: TextStyle(fontSize: 24)),
         ),
       ),
     );
