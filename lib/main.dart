@@ -30,7 +30,7 @@ class LoginPage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: ElevatedButton(
-          child: Text('Go to Home'),
+          child: Text('Go to home'),
           onPressed: () {
             Navigator.push(
               context,
